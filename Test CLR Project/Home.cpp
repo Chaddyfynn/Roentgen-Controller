@@ -1,9 +1,9 @@
-#include "MyForm.h"
+#include "Home.h"
 
 [System::STAThread]
 
-void main(array<System::String^>^ args)
-
+void main()
+// 
 {
 
     System::Windows::Forms::Application::EnableVisualStyles();
